@@ -1,0 +1,584 @@
+﻿Make,Model,Year,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,highway MPG,city mpg,Popularity,MSRP
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,23,17,2031,41365
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,23,17,2031,35740
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,37615
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,34695
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,35725
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,43400
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,23,17,2031,32820
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,38645
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,37825
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,43620
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,36115
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,35950
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,33210
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,38855
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,41585
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,35085
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,41310
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,36690
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,44360
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,39595
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,41850
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,42325
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,35885
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,38565
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,36915
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,34010
+Toyota,86,2017,premium unleaded (recommended),205,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,28,21,2031,26255
+Toyota,86,2017,premium unleaded (recommended),200,4,AUTOMATIC,rear wheel drive,2,Performance,Compact,Coupe,32,24,2031,26975
+Toyota,Avalon Hybrid,2015,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,37800
+Toyota,Avalon Hybrid,2015,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,41700
+Toyota,Avalon Hybrid,2015,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,36470
+Toyota,Avalon Hybrid,2016,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,36650
+Toyota,Avalon Hybrid,2016,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,38100
+Toyota,Avalon Hybrid,2016,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,41950
+Toyota,Avalon Hybrid,2017,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,42550
+Toyota,Avalon Hybrid,2017,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,38700
+Toyota,Avalon Hybrid,2017,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,40,2031,37250
+Toyota,Avalon,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,31,21,2031,37170
+Toyota,Avalon,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,2031,32285
+Toyota,Avalon,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,31,21,2031,39980
+Toyota,Avalon,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,31,21,2031,36080
+Toyota,Avalon,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,2031,34140
+Toyota,Avalon,2016,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,31,21,2031,37050
+Toyota,Avalon,2016,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,2031,35850
+Toyota,Avalon,2016,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,31,21,2031,40450
+Toyota,Avalon,2016,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,2031,32650
+Toyota,Avalon,2016,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,2031,34400
+Toyota,Avalon,2017,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,30,21,2031,41050
+Toyota,Avalon,2017,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,30,21,2031,37650
+Toyota,Avalon,2017,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,30,21,2031,33250
+Toyota,Avalon,2017,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,30,21,2031,36450
+Toyota,Avalon,2017,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,30,21,2031,35000
+Toyota,Camry Hybrid,2015,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,38,40,2031,29980
+Toyota,Camry Hybrid,2015,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,38,40,2031,27995
+Toyota,Camry Hybrid,2015,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,43,2031,26790
+Toyota,Camry Hybrid,2016,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,38,40,2031,30140
+Toyota,Camry Hybrid,2016,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,38,40,2031,27995
+Toyota,Camry Hybrid,2016,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,39,43,2031,26790
+Toyota,Camry Hybrid,2017,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,38,42,2031,26790
+Toyota,Camry Hybrid,2017,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,37,40,2031,27995
+Toyota,Camry Hybrid,2017,regular unleaded,200,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,37,40,2031,30140
+Toyota,Camry,2015,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,26150
+Toyota,Camry,2015,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,26150
+Toyota,Camry,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,2031,31370
+Toyota,Camry,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,31,21,2031,31370
+Toyota,Camry,2015,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,22970
+Toyota,Camry,2015,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,23840
+Toyota,Camry,2016,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,26310
+Toyota,Camry,2016,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,23840
+Toyota,Camry,2016,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,26310
+Toyota,Camry,2016,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,25715
+Toyota,Camry,2016,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,25,2031,23070
+Toyota,Camry,2016,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,31,21,2031,31370
+Toyota,Camry,2016,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,2031,31370
+Toyota,Camry,2017,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,33,24,2031,23070
+Toyota,Camry,2017,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,33,24,2031,23840
+Toyota,Camry,2017,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,33,24,2031,26310
+Toyota,Camry,2017,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,30,21,2031,31370
+Toyota,Camry,2017,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,30,21,2031,31370
+Toyota,Camry,2017,regular unleaded,178,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,33,24,2031,26310
+Toyota,Corolla iM,2017,regular unleaded,137,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,27,2031,18750
+Toyota,Corolla iM,2017,regular unleaded,137,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,28,2031,19490
+Toyota,Corolla,2015,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,42,30,2031,18965
+Toyota,Corolla,2015,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,29,2031,18965
+Toyota,Corolla,2015,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,40,30,2031,19665
+Toyota,Corolla,2015,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,29,2031,19895
+Toyota,Corolla,2015,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,36,27,2031,17550
+Toyota,Corolla,2015,regular unleaded,132,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,37,28,2031,16950
+Toyota,Corolla,2015,regular unleaded,132,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,37,28,2031,21495
+Toyota,Corolla,2015,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,29,2031,22025
+Toyota,Corolla,2015,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,29,2031,22955
+Toyota,Corolla,2015,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,29,2031,19195
+Toyota,Corolla,2015,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,40,30,2031,22725
+Toyota,Corolla,2015,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,29,2031,18565
+Toyota,Corolla,2016,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,42,30,2031,19135
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,29,2031,19135
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,29,2031,20065
+Toyota,Corolla,2016,regular unleaded,132,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,37,28,2031,17300
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,29,2031,23125
+Toyota,Corolla,2016,regular unleaded,132,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,37,28,2031,21665
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,29,2031,22195
+Toyota,Corolla,2016,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,40,30,2031,19835
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,29,2031,20635
+Toyota,Corolla,2016,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,40,30,2031,22895
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,36,27,2031,17900
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,29,2031,18735
+Toyota,Corolla,2016,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,29,2031,19365
+Toyota,Corolla,2017,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,35,28,2031,22680
+Toyota,Corolla,2017,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,40,30,2031,21300
+Toyota,Corolla,2017,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,36,28,2031,18500
+Toyota,Corolla,2017,regular unleaded,132,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,35,27,2031,21665
+Toyota,Corolla,2017,regular unleaded,140,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,40,30,2031,19335
+Toyota,Corolla,2017,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,35,28,2031,21900
+Toyota,Corolla,2017,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,36,28,2031,21825
+Toyota,Corolla,2017,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,36,28,2031,18935
+Toyota,Corolla,2017,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,35,28,2031,20445
+Toyota,FJ Cruiser,2013,regular unleaded,260,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,20,16,2031,27030
+Toyota,FJ Cruiser,2013,regular unleaded,260,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,20,17,2031,28620
+Toyota,FJ Cruiser,2013,regular unleaded,260,6,MANUAL,four wheel drive,4,N/A,Midsize,4dr SUV,18,15,2031,28210
+Toyota,FJ Cruiser,2014,regular unleaded,260,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,20,17,2031,29270
+Toyota,FJ Cruiser,2014,regular unleaded,260,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,20,16,2031,27680
+Toyota,FJ Cruiser,2014,regular unleaded,260,6,MANUAL,four wheel drive,4,N/A,Midsize,4dr SUV,18,15,2031,28860
+Toyota,Highlander Hybrid,2014,regular unleaded,280,6,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,28,27,2031,47300
+Toyota,Highlander Hybrid,2014,regular unleaded,280,6,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,28,27,2031,49790
+Toyota,Highlander Hybrid,2015,regular unleaded,280,6,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,28,27,2031,47850
+Toyota,Highlander Hybrid,2015,regular unleaded,280,6,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,28,27,2031,50340
+Toyota,Highlander Hybrid,2016,regular unleaded,280,6,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,28,27,2031,50485
+Toyota,Highlander Hybrid,2016,regular unleaded,280,6,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,28,27,2031,47870
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,34750
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,31070
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,44140
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,38050
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,41650
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,42680
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,32530
+Toyota,Highlander,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,20,2031,29765
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,33290
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,36590
+Toyota,Highlander,2015,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,40190
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,34395
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,38775
+Toyota,Highlander,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,20,2031,30490
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,42375
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,44990
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,33475
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,43530
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,32015
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,40915
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,24,18,2031,35855
+Toyota,Highlander,2016,regular unleaded,270,6,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,25,19,2031,37315
+Toyota,Land Cruiser,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,Luxury,Midsize,4dr SUV,18,13,2031,80155
+Toyota,Land Cruiser,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,Luxury,Midsize,4dr SUV,18,13,2031,83825
+Toyota,Land Cruiser,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,Luxury,Midsize,4dr SUV,18,13,2031,84325
+Toyota,Matrix,2013,regular unleaded,132,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,32,25,2031,20115
+Toyota,Matrix,2013,regular unleaded,158,4,AUTOMATIC,all wheel drive,4,Hatchback,Compact,4dr Hatchback,26,20,2031,22415
+Toyota,Matrix,2013,regular unleaded,158,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,28,21,2031,20265
+Toyota,Matrix,2013,regular unleaded,158,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,29,21,2031,21455
+Toyota,Matrix,2013,regular unleaded,132,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,32,26,2031,19275
+Toyota,Prius c,2014,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,20030
+Toyota,Prius c,2014,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,19080
+Toyota,Prius c,2014,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,21765
+Toyota,Prius c,2014,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,23360
+Toyota,Prius c,2015,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,20340
+Toyota,Prius c,2015,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,21765
+Toyota,Prius c,2015,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,19540
+Toyota,Prius c,2015,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,24475
+Toyota,Prius c,2016,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,20360
+Toyota,Prius c,2016,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,19560
+Toyota,Prius c,2016,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,24495
+Toyota,Prius c,2016,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,21785
+Toyota,Prius c,2016,regular unleaded,99,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,46,53,2031,21355
+Toyota,Prius Prime,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,53,55,2031,27100
+Toyota,Prius Prime,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,53,55,2031,33100
+Toyota,Prius Prime,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,53,55,2031,28800
+Toyota,Prius v,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,26675
+Toyota,Prius v,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,28060
+Toyota,Prius v,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,30935
+Toyota,Prius v,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,29695
+Toyota,Prius v,2016,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,26675
+Toyota,Prius v,2016,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,28060
+Toyota,Prius v,2016,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,30935
+Toyota,Prius v,2016,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,40,44,2031,29695
+Toyota,Prius v,2017,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,39,43,2031,26675
+Toyota,Prius v,2017,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,39,43,2031,29695
+Toyota,Prius v,2017,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,39,43,2031,28060
+Toyota,Prius v,2017,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Wagon,39,43,2031,30935
+Toyota,Prius,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,48,51,2031,25765
+Toyota,Prius,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,48,51,2031,30005
+Toyota,Prius,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,48,51,2031,24200
+Toyota,Prius,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,48,51,2031,28435
+Toyota,Prius,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,48,51,2031,26985
+Toyota,Prius,2015,regular unleaded,134,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,48,51,2031,23215
+Toyota,Prius,2016,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,24200
+Toyota,Prius,2016,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,26250
+Toyota,Prius,2016,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,28650
+Toyota,Prius,2016,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,30000
+Toyota,Prius,2016,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,53,58,2031,24700
+Toyota,Prius,2016,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,28100
+Toyota,Prius,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,28115
+Toyota,Prius,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,30015
+Toyota,Prius,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,29135
+Toyota,Prius,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,26735
+Toyota,Prius,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,50,54,2031,24685
+Toyota,Prius,2017,regular unleaded,121,4,AUTOMATIC,front wheel drive,4,"Hatchback,Hybrid",Compact,4dr Hatchback,53,58,2031,25165
+Toyota,RAV4 EV,2013,electric,,0,DIRECT_DRIVE,front wheel drive,4,Crossover,Midsize,4dr SUV,74,78,2031,49800
+Toyota,RAV4 EV,2014,electric,,0,DIRECT_DRIVE,front wheel drive,4,Crossover,Midsize,4dr SUV,74,78,2031,49800
+Toyota,RAV4 Hybrid,2016,regular unleaded,194,4,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,31,34,2031,28370
+Toyota,RAV4 Hybrid,2016,regular unleaded,194,4,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,31,34,2031,33610
+Toyota,RAV4 Hybrid,2017,regular unleaded,194,4,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,30,34,2031,34030
+Toyota,RAV4 Hybrid,2017,regular unleaded,194,4,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,30,34,2031,29030
+Toyota,RAV4 Hybrid,2017,regular unleaded,194,4,AUTOMATIC,all wheel drive,4,"Crossover,Hybrid",Midsize,4dr SUV,30,34,2031,32185
+Toyota,RAV4,2015,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,31,24,2031,25240
+Toyota,RAV4,2015,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,29,22,2031,29850
+Toyota,RAV4,2015,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,31,24,2031,28450
+Toyota,RAV4,2015,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,29,22,2031,26640
+Toyota,RAV4,2015,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,31,24,2031,23680
+Toyota,RAV4,2015,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,29,22,2031,25080
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,31,24,2031,29265
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,29,22,2031,25750
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,31,24,2031,26270
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,31,24,2031,24350
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,29,22,2031,30665
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,31,24,2031,31510
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,29,22,2031,32910
+Toyota,RAV4,2016,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,29,22,2031,27670
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,29,23,2031,31830
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,28,22,2031,28230
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,28,22,2031,26310
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,30,23,2031,24910
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,28,22,2031,36150
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,28,22,2031,33230
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,29,23,2031,34750
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,30,23,2031,26830
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,4dr SUV,30,23,2031,29985
+Toyota,RAV4,2017,regular unleaded,176,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,4dr SUV,28,22,2031,31385
+Toyota,Sequoia,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,64320
+Toyota,Sequoia,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,47620
+Toyota,Sequoia,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,56580
+Toyota,Sequoia,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,61095
+Toyota,Sequoia,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,47620
+Toyota,Sequoia,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,53355
+Toyota,Sequoia,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,56580
+Toyota,Sequoia,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,64320
+Toyota,Sequoia,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,44395
+Toyota,Sequoia,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,61855
+Toyota,Sequoia,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,57340
+Toyota,Sequoia,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,45325
+Toyota,Sequoia,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,65080
+Toyota,Sequoia,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,65080
+Toyota,Sequoia,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,57340
+Toyota,Sequoia,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,48550
+Toyota,Sequoia,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,54115
+Toyota,Sequoia,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,48550
+Toyota,Sequoia,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,48685
+Toyota,Sequoia,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,65215
+Toyota,Sequoia,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,45460
+Toyota,Sequoia,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,57475
+Toyota,Sequoia,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,57475
+Toyota,Sequoia,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,54250
+Toyota,Sequoia,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,4dr SUV,17,13,2031,48685
+Toyota,Sequoia,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,4dr SUV,17,13,2031,65215
+Toyota,Sequoia,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,4dr SUV,17,13,2031,61990
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,42880
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,37400
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,40655
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,37445
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,35200
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,41035
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,35000
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,33960
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,46250
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,41750
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,28700
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,45120
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,31630
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,31430
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,38455
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,39780
+Toyota,Sienna,2015,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,26595
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,34180
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,38605
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,35410
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,31840
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,37620
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,31640
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,41245
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,40815
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,28850
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,41900
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,43040
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,39930
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,23,16,2031,46410
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,37655
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,35210
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,45270
+Toyota,Sienna,2016,regular unleaded,266,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,25,18,2031,26745
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,29750
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,32740
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,24,18,2031,35080
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,24,18,2031,43940
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,42800
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,24,18,2031,41715
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,38555
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,32540
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,42145
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,39505
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,36310
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,36110
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,40830
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,27645
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,24,18,2031,38520
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,front wheel drive,4,N/A,Large,Passenger Minivan,27,19,2031,46170
+Toyota,Sienna,2017,regular unleaded,296,6,AUTOMATIC,all wheel drive,4,N/A,Large,Passenger Minivan,24,18,2031,47310
+Toyota,Tacoma,2015,regular unleaded,236,6,MANUAL,four wheel drive,4,N/A,Compact,Crew Cab Pickup,19,15,2031,27355
+Toyota,Tacoma,2015,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,23075
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,21,16,2031,27235
+Toyota,Tacoma,2015,regular unleaded,159,4,MANUAL,four wheel drive,4,N/A,Compact,Extended Cab Pickup,20,18,2031,24800
+Toyota,Tacoma,2015,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,24,19,2031,21865
+Toyota,Tacoma,2015,regular unleaded,236,6,MANUAL,four wheel drive,4,N/A,Compact,Extended Cab Pickup,19,15,2031,35725
+Toyota,Tacoma,2015,regular unleaded,159,4,MANUAL,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,25,21,2031,20965
+Toyota,Tacoma,2015,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,23625
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,21,16,2031,37615
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,21,17,2031,25060
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,21,17,2031,23960
+Toyota,Tacoma,2015,regular unleaded,236,6,MANUAL,four wheel drive,4,N/A,Compact,Extended Cab Pickup,19,15,2031,26355
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,21,16,2031,36705
+Toyota,Tacoma,2015,regular unleaded,236,6,MANUAL,four wheel drive,4,N/A,Compact,Crew Cab Pickup,19,15,2031,36635
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,21,16,2031,28235
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,21,16,2031,28735
+Toyota,Tacoma,2015,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,24,19,2031,22525
+Toyota,Tacoma,2015,regular unleaded,236,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,21,17,2031,25560
+Toyota,Tacoma,2015,regular unleaded,159,4,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,21,18,2031,25700
+Toyota,Tacoma,2016,regular unleaded,159,4,MANUAL,four wheel drive,4,N/A,Compact,Extended Cab Pickup,21,19,2031,25185
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,29275
+Toyota,Tacoma,2016,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,23,19,2031,23660
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,34700
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,31420
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,34090
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,24,19,2031,30025
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,23,18,2031,33310
+Toyota,Tacoma,2016,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,23,19,2031,26635
+Toyota,Tacoma,2016,regular unleaded,278,6,MANUAL,four wheel drive,4,N/A,Compact,Extended Cab Pickup,20,17,2031,31680
+Toyota,Tacoma,2016,regular unleaded,278,6,MANUAL,four wheel drive,4,N/A,Compact,Crew Cab Pickup,20,17,2031,32460
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,34090
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,24,19,2031,27355
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,23,18,2031,33310
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,35105
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,31920
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,38180
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,28345
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,31125
+Toyota,Tacoma,2016,regular unleaded,159,4,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,22,19,2031,26735
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,31625
+Toyota,Tacoma,2016,regular unleaded,159,4,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,22,19,2031,28820
+Toyota,Tacoma,2016,regular unleaded,278,6,MANUAL,four wheel drive,4,N/A,Compact,Crew Cab Pickup,21,17,2031,32460
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,28845
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,23,18,2031,30530
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,31125
+Toyota,Tacoma,2016,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,23,19,2031,25745
+Toyota,Tacoma,2016,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,23,19,2031,24490
+Toyota,Tacoma,2016,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,34700
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,35315
+Toyota,Tacoma,2017,regular unleaded,278,6,MANUAL,four wheel drive,4,N/A,Compact,Crew Cab Pickup,20,17,2031,33075
+Toyota,Tacoma,2017,regular unleaded,278,6,MANUAL,four wheel drive,4,N/A,Compact,Crew Cab Pickup,20,17,2031,40760
+Toyota,Tacoma,2017,regular unleaded,159,4,MANUAL,four wheel drive,4,N/A,Compact,Extended Cab Pickup,21,19,2031,25645
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,35720
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,23,18,2031,33770
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,32765
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,34705
+Toyota,Tacoma,2017,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,23,19,2031,27095
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,35315
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,42760
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,34705
+Toyota,Tacoma,2017,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,23,19,2031,24950
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,29690
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,24,19,2031,25730
+Toyota,Tacoma,2017,regular unleaded,278,6,MANUAL,four wheel drive,4,N/A,Compact,Crew Cab Pickup,20,17,2031,33075
+Toyota,Tacoma,2017,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,23,19,2031,26205
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,31740
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,29735
+Toyota,Tacoma,2017,regular unleaded,159,4,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,22,19,2031,29280
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,23,18,2031,33770
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,24,19,2031,30485
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,24,19,2031,28700
+Toyota,Tacoma,2017,regular unleaded,159,4,AUTOMATIC,rear wheel drive,4,N/A,Compact,Extended Cab Pickup,23,19,2031,24120
+Toyota,Tacoma,2017,regular unleaded,278,6,MANUAL,four wheel drive,4,N/A,Compact,Extended Cab Pickup,21,17,2031,32390
+Toyota,Tacoma,2017,regular unleaded,159,4,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,22,19,2031,27195
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,33265
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,31740
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Crew Cab Pickup,23,18,2031,38795
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,four wheel drive,4,N/A,Compact,Extended Cab Pickup,23,18,2031,31875
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,32240
+Toyota,Tacoma,2017,regular unleaded,278,6,AUTOMATIC,rear wheel drive,4,N/A,Compact,Crew Cab Pickup,24,19,2031,30190
+Toyota,Tundra,2015,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,18,14,2031,33210
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,2,N/A,Large,Regular Cab Pickup,18,13,2031,29120
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,44925
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,40685
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,44925
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,44000
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,33390
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,33060
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,47975
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,34710
+Toyota,Tundra,2015,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,19,15,2031,30160
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,34710
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,40685
+Toyota,Tundra,2015,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,18,14,2031,31560
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,44000
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,35040
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,37030
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,42550
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,42550
+Toyota,Tundra,2015,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,18,14,2031,35530
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,33060
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,37030
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,17,13,2031,32170
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,41385
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,39500
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,35040
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,33390
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,41385
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,47975
+Toyota,Tundra,2015,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,19,15,2031,32480
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,37635
+Toyota,Tundra,2015,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,19,15,2031,28510
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,47975
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,33980
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,30010
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,31660
+Toyota,Tundra,2015,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,47975
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,31990
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,four wheel drive,2,N/A,Large,Regular Cab Pickup,17,13,2031,32170
+Toyota,Tundra,2015,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,30340
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,34220
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,30840
+Toyota,Tundra,2016,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,18,14,2031,34000
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,45560
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,32980
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,38670
+Toyota,Tundra,2016,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,18,14,2031,36320
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,34970
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,46530
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,43585
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,42945
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,42945
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,46530
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,30840
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,41720
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,49580
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,46530
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,40535
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,38020
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,49580
+Toyota,Tundra,2016,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,19,15,2031,29140
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,18,13,2031,29950
+Toyota,Tundra,2016,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,19,15,2031,33270
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,32650
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,49580
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,49580
+Toyota,Tundra,2016,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,18,14,2031,32190
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,36030
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,17,13,2031,33000
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,31170
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,34220
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,35700
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,32980
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,2,N/A,Large,Regular Cab Pickup,18,13,2031,29950
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,38670
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,41720
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,34970
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,46530
+Toyota,Tundra,2016,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,19,15,2031,30950
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,45560
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,43585
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,32650
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,33890
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,40535
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,36030
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,35700
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,2,N/A,Large,Regular Cab Pickup,17,13,2031,33000
+Toyota,Tundra,2016,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,33890
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,31170
+Toyota,Tundra,2016,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,38020
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,2,N/A,Large,Regular Cab Pickup,17,13,2031,33450
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,50030
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,35420
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,42330
+Toyota,Tundra,2017,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,19,15,2031,31830
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,46980
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,42330
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,46980
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,44195
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,39280
+Toyota,Tundra,2017,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,18,14,2031,34880
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,46010
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,2,N/A,Large,Regular Cab Pickup,18,13,2031,30400
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,38470
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,33430
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,41145
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,43395
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,50030
+Toyota,Tundra,2017,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,19,15,2031,34150
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,18,13,2031,30400
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,31620
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,50030
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,33100
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,43395
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,31620
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,36480
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,31290
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,33430
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,34340
+Toyota,Tundra,2017,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,18,14,2031,37200
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,46980
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,44195
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,31290
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,34340
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,18,13,2031,46980
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,36150
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,34670
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,rear wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,18,13,2031,33100
+Toyota,Tundra,2017,regular unleaded,310,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,19,15,2031,30020
+Toyota,Tundra,2017,regular unleaded,310,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,18,14,2031,33070
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,35420
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,36480
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Extended Cab Pickup,18,13,2031,39280
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Extended Cab Pickup,17,13,2031,36150
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,46010
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,rear wheel drive,4,N/A,Large,Crew Cab Pickup,18,13,2031,41145
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,2,Flex Fuel,Large,Regular Cab Pickup,17,13,2031,33450
+Toyota,Tundra,2017,regular unleaded,381,8,AUTOMATIC,four wheel drive,4,N/A,Large,Crew Cab Pickup,17,13,2031,38470
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Extended Cab Pickup,17,13,2031,34670
+Toyota,Tundra,2017,flex-fuel (unleaded/E85),381,8,AUTOMATIC,four wheel drive,4,Flex Fuel,Large,Crew Cab Pickup,17,13,2031,50030
+Toyota,Venza,2013,regular unleaded,181,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,31510
+Toyota,Venza,2013,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,39020
+Toyota,Venza,2013,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,31120
+Toyota,Venza,2013,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,"Crossover,Performance",Midsize,Wagon,26,19,2031,37570
+Toyota,Venza,2013,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,"Crossover,Performance",Midsize,Wagon,26,19,2031,29670
+Toyota,Venza,2013,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,"Crossover,Performance",Midsize,Wagon,26,19,2031,33330
+Toyota,Venza,2013,regular unleaded,181,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,27850
+Toyota,Venza,2013,regular unleaded,181,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,32960
+Toyota,Venza,2013,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,34780
+Toyota,Venza,2013,regular unleaded,181,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,29300
+Toyota,Venza,2014,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,"Crossover,Performance",Midsize,Wagon,26,19,2031,29770
+Toyota,Venza,2014,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,39570
+Toyota,Venza,2014,regular unleaded,181,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,29400
+Toyota,Venza,2014,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,"Crossover,Performance",Midsize,Wagon,26,19,2031,33630
+Toyota,Venza,2014,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,35080
+Toyota,Venza,2014,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,31220
+Toyota,Venza,2014,regular unleaded,181,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,27950
+Toyota,Venza,2014,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,"Crossover,Performance",Midsize,Wagon,26,19,2031,38120
+Toyota,Venza,2014,regular unleaded,181,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,31810
+Toyota,Venza,2014,regular unleaded,181,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,33260
+Toyota,Venza,2015,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,35600
+Toyota,Venza,2015,regular unleaded,181,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,33560
+Toyota,Venza,2015,regular unleaded,268,6,AUTOMATIC,all wheel drive,4,"Crossover,Performance",Midsize,Wagon,25,18,2031,39940
+Toyota,Venza,2015,regular unleaded,181,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,29065
+Toyota,Venza,2015,regular unleaded,181,4,AUTOMATIC,front wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,32110
+Toyota,Venza,2015,regular unleaded,268,6,AUTOMATIC,front wheel drive,4,"Crossover,Performance",Midsize,Wagon,26,19,2031,34150
+Toyota,Venza,2015,regular unleaded,181,4,AUTOMATIC,all wheel drive,4,Crossover,Midsize,Wagon,26,20,2031,30515
+Toyota,Yaris iA,2017,regular unleaded,106,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,39,30,2031,15950
+Toyota,Yaris iA,2017,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,40,32,2031,17050
+Toyota,Yaris,2015,regular unleaded,106,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,30,2031,16820
+Toyota,Yaris,2015,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,30,2031,16880
+Toyota,Yaris,2015,regular unleaded,106,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,36,30,2031,16505
+Toyota,Yaris,2015,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,30,2031,15945
+Toyota,Yaris,2015,regular unleaded,106,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,37,30,2031,14845
+Toyota,Yaris,2015,regular unleaded,106,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,36,30,2031,15570
+Toyota,Yaris,2015,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,30,2031,17620
+Toyota,Yaris,2016,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,30,2031,17670
+Toyota,Yaris,2016,regular unleaded,106,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,30,2031,16870
+Toyota,Yaris,2016,regular unleaded,106,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,36,30,2031,16555
+Toyota,Yaris,2016,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,30,2031,16930
+Toyota,Yaris,2016,regular unleaded,106,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,37,30,2031,14895
+Toyota,Yaris,2016,regular unleaded,106,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,36,30,2031,15620
+Toyota,Yaris,2016,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,30,2031,15995
+Toyota,Yaris,2017,regular unleaded,106,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,35,30,2031,16000
+Toyota,Yaris,2017,regular unleaded,106,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,35,30,2031,16910
+Toyota,Yaris,2017,regular unleaded,106,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,36,30,2031,15250
+Toyota,Yaris,2017,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,30,2031,16375
+Toyota,Yaris,2017,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,30,2031,17285
+Toyota,Yaris,2017,regular unleaded,106,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,30,2031,18000
+Toyota,Yaris,2017,regular unleaded,106,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,36,30,2031,17200
