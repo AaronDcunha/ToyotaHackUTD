@@ -1,7 +1,8 @@
 import "../App.css";
 
+
 // @ts-ignore
-function CarItem({model, year, msrp, cityMpg, fuelType, driveType, bodyStyle,}){
+function CarItem({model, year, msrp, cityMpg, fuelType, driveType, bodyStyle, onClick}){
 
     const loanMonths = 60;
     const interestRate = 0.05;
@@ -12,7 +13,7 @@ function CarItem({model, year, msrp, cityMpg, fuelType, driveType, bodyStyle,}){
 
     return (
         <>
-            <div className="car-info">
+            <div className="car-info" onClick={onClick}>
                 <div className="car-info-image">
                     <img src="../placeholder.png" alt={`${model} car`} className="car-image" />
                 </div>

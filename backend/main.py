@@ -46,11 +46,11 @@ def result_ai(payload: AIQuery):
     user_query = payload.query
 
     ai_filters = extract_toyota_filters(user_query)
-    print(ai_filters)
+    #print(ai_filters)
     df_filtered = filter_cars(ai_filters)
     df_filtered = df_filtered[:20]
     df_clean = df_filtered.replace({np.nan: None})
-    print(df_clean)
+    #print(df_clean)
 
     return df_clean.to_dict(orient="records")[:20]
 

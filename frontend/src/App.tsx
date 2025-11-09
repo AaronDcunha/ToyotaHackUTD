@@ -15,6 +15,8 @@ const App: React.FC = () => {
     const [driveType, setDriveType] = useState("");
     const [mpg, setMpg] = useState<string>("");
 
+    const [selectedCar, setSelectedCar] = useState<any | null>(null);
+
     const [cars, setCars] = useState<CarFromApi[]>([]);
 
     const handleManualSearch = async () => {
@@ -195,6 +197,7 @@ const App: React.FC = () => {
                                   fuelType={car["Engine Fuel Type"]}
                                   driveType={car["Driven_Wheels"]}
                                   bodyStyle={car["Vehicle Style"]}
+                                  onClick={() => setSelectedCar(car)}
                               />
                           ))}
                       </>
@@ -216,6 +219,31 @@ const App: React.FC = () => {
 
 
           </div>
+
+          {selectedCar && <>
+              <div className={"model-viewer"}>
+                  <button className="model-close" onClick={() => setSelectedCar(null)}>
+                      ✕
+                  </button>
+
+                  {/* @ts-ignore – custom element, TS doesn’t know it by default */}
+                  <model-viewer
+                      src="/car_models/car.glb"
+                      alt="3D view of selected Toyota"
+                      camera-controls
+                      auto-rotate
+                      disable-tap
+                      shadow-intensity="0.8"
+                      exposure="1.1"
+                  />
+
+                  <p className="model-credit">
+                      3D model by <a href="https://skfb.ly/6VsUY" target="_blank" rel="noreferrer">Sketchfab Creator Tech developers</a>
+                  </p>
+
+              </div>
+          </>}
+
 
       </>
 
