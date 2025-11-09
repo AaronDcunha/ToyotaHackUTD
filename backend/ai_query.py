@@ -33,8 +33,7 @@ def extract_toyota_filters(user_request):
     Return a SINGLE JSON object with any of these keys when they are clearly implied:
 
     - model: string (partial model name, e.g. "Corolla", "RAV4")
-    - minYear: integer
-    - maxYear: integer
+    - year: integer
 
     - bodyType: string mapped from "Vehicle Style", e.g.
       "Sedan", "SUV", "Truck", "Coupe", "Hatchback", "Minivan"

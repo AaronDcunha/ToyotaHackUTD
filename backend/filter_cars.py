@@ -18,9 +18,11 @@ def filter_cars(filters):
     if "fuel" in filters:
         if filters["fuel"].lower() == "gas":
             pass
-        elif filters["fuel"] == "electric":
-            df_filtered = df_filtered[df_filtered["Engine Fuel Type"].str.lower().str.contains(filters["fuel"].lower(),na=False)]
-        elif filters["fuel"] == "hybrid":
+        elif filters["fuel"].lower() == "electric":
+            print("checking electric")
+            df_filtered = df_filtered[df_filtered["Engine Fuel Type"].str.lower().str.contains("electric",na=False)]
+        elif filters["fuel"].lower() == "hybrid":
+            print("checking hybrid")
             df_filtered = df_filtered[df_filtered["Market Category"].str.lower().str.contains(filters["fuel"].lower(),na=False)]
         
         
@@ -30,6 +32,28 @@ def filter_cars(filters):
             .str.lower()
             .str.contains(filters["transmission"].lower(), na=False)
         ]
+
+    if "drive" in filters:
+        drive = filters["drive"].lower()
+        if drive == "awd":
+            df_filtered = df_filtered[
+                df_filtered["Driven_Wheels"]
+                .str.lower()
+                .isin(["four wheel drive", "all wheel drive"])
+            ]
+        elif drive == "fwd":
+            df_filtered = df_filtered[
+                df_filtered["Driven_Wheels"]
+                .str.lower()
+                .str.contains("front wheel drive", na=False)
+            ]
+        elif drive == "rwd":
+            df_filtered = df_filtered[
+                df_filtered["Driven_Wheels"]
+                .str.lower()
+                .str.contains("rear wheel drive", na=False)
+            ]
+
     
     if "minMSRP" in filters:
         df_filtered = df_filtered[df_filtered["MSRP"] >= filters["minMSRP"]]
@@ -40,6 +64,9 @@ def filter_cars(filters):
         df_filtered = df_filtered[df_filtered["city mpg"] >= filters["minMPG"]]
     if "maxMPG" in filters:
         df_filtered = df_filtered[df_filtered["city mpg"] <= filters["maxMPG"]]
+    
+    if "year" in filters:
+        df_filtered = df_filtered[df_filtered["Year"] == filters["year"]]
 
     return df_filtered
 
