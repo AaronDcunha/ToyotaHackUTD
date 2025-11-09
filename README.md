@@ -2,9 +2,8 @@
 🚗 ToyotaHackUTD — AI-Powered Toyota Car Finder
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌟 Inspiration
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🌟 Inspiration
+---
 
 Artificial Intelligence is revolutionizing how we interact with information. This is much like how Google transformed the way we access information. We wanted to bring that same innovation to the car-buying experience. Purchasing a car is a major decision, and our goal was to make it practical, smarter, and more personalized utilizing AI technology.
 
