@@ -116,10 +116,10 @@ def extract_toyota_filters(user_request):
     )
 
     #Testing
-    #print(response.text)
+    print(response.text)
 
     try:
         filters = json.loads(response.text)
-        return ("✅ Parsed filters:")
+        return (filters)
     except json.JSONDecodeError:
-        return ("❌ Could not parse as JSON:")
+        return ({})

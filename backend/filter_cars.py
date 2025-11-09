@@ -1,7 +1,9 @@
 import pandas as pd
 import os
 
-df = pd.read_csv("backend\ToyotaCarDataset.csv")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.path.join(BASE_DIR, "ToyotaCarDataset.csv")
+df = pd.read_csv(csv_path)
 
 def filter_cars(filters):
     df_filtered = df.copy()
@@ -14,8 +16,13 @@ def filter_cars(filters):
         ]
 
     if "fuel" in filters:
-        df_filtered = df_filtered[
-            df.filtered["Engine Fuel Type"].str.lower().str.contains(filters["fuel"].lower(),na=False)]
+        if filters["fuel"].lower() == "gas":
+            pass
+        elif filters["fuel"] == "electric":
+            df_filtered = df_filtered[df_filtered["Engine Fuel Type"].str.lower().str.contains(filters["fuel"].lower(),na=False)]
+        elif filters["fuel"] == "hybrid":
+            df_filtered = df_filtered[df_filtered["Market Category"].str.lower().str.contains(filters["fuel"].lower(),na=False)]
+        
         
     if "transmission" in filters:
         df_filtered = df_filtered[
@@ -35,3 +42,5 @@ def filter_cars(filters):
         df_filtered = df_filtered[df_filtered["city mpg"] <= filters["maxMPG"]]
 
     return df_filtered
+
+#print(filter_cars({"bodyType":"SUV","maxMSRP":30000})[:5])

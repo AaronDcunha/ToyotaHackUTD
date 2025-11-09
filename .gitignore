@@ -1,1 +1,8 @@
 venv/
+backend/__pycache__/ai_query.cpython-312.pyc
+
+backend/__pycache__/filter_cars.cpython-312.pyc
+
+backend/__pycache__/main.cpython-312.pyc
+
+backend/venv/
