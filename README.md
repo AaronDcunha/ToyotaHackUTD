@@ -71,3 +71,59 @@ Balancing AI complexity with usability to create a seamless user experience.
 
 Special thanks to Toyota for sponsoring the hackathon and to HackUTD for hosting an aspiring event that motivates innovation and collaboration.
 
+
+
+## Frontend Setup (React + Vite)
+---
+
+Go to the frontend folder
+cd frontend
+
+Install dependencies
+npm install
+
+Run the development server
+npm run dev
+
+Open the app at
+http://localhost:5173
+
+
+
+## Backend Setup (FastAPI)
+---
+
+Go to the backend folder
+cd backend
+
+Create and activate a virtual environment
+python -m venv venv
+venv\Scripts\activate # Windows
+source venv/bin/activate # macOS/Linux
+
+Install dependencies
+pip install -r requirements.txt
+
+Add your Gemini API key to the ai_query.py file
+
+Run the backend server
+uvicorn main:app --reload --port 8000
+
+Backend will be live at
+http://127.0.0.1:8000
+
+
+
+## Connecting Frontend & Backend
+---
+
+Make sure both servers are running:
+
+Frontend → http://localhost:5173
+
+Backend → http://127.0.0.1:8000
+
+Frontend fetches data from:
+/result/ai
+/result/manual
+
