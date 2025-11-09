@@ -16,7 +16,7 @@ ToyotaHackUTD offers users a way to explore Toyota’s car lineup in two intuiti
 
 💬 AI-Powered Search: Describe your dream car in a short sentence. AI will recommend matching Toyota models that are most suitable for your preferences.
 
-## 🛠️ How We Built It
+##  🛠️ How We Built It
 ---
 
 We combined the power of Google’s Gemini API with a well formatted Toyota CSV dataset including a detailed specification for a large range of Toyota vehicles.
@@ -29,7 +29,7 @@ Backend: Integrated Gemini AI with the Toyota dataset for the purpose: intellige
 
 Data Handling: CSV parsing and data matching algorithms to productively filter and rank car options.
 
-##⚙️ Challenges We Faced
+## ⚙️ Challenges We Faced
 ---
 
 🎨 Designing an organized and visually enticing color scheme for the front end.
@@ -37,7 +37,7 @@ Data Handling: CSV parsing and data matching algorithms to productively filter a
 🧩 Integrating the AI logic with the front end. This allows for seamless communication between the Gemini API and the UI components.
 
 
-##🏆 Accomplishments We’re Proud Of
+## 🏆 Accomplishments We’re Proud Of
 ---
 
 Built a fully functional AI-powered web app from scratch in a restricted time frame.
@@ -47,7 +47,7 @@ Designed a user-friendly interface that feels intuitive and modern.
 Developed a project that can genuinely improve the car-buying process and support people in making enhanced decisions.
 
 
-##📚 What We Learned
+## 📚 What We Learned
 ---
 
 How to efficiently integrate Gemini API with structured data sources like CSV files.
@@ -56,7 +56,7 @@ The essence of team collaboration, version control, and UI/UX design in building
 
 Balancing AI complexity with usability to create a seamless user experience.
 
-##🚀 What’s Next for Toyota AI Search
+## 🚀 What’s Next for Toyota AI Search
 
 ⚡Performance Optimization: Enhace the search algorithm to handle hugedatasets effectively.
 
@@ -66,7 +66,7 @@ Balancing AI complexity with usability to create a seamless user experience.
 
 🌐 Expanded Dataset: Incoperate more Toyota models and integrate real-time data such as availability or pricing.
 
-##🤝 Acknowledgments
+## 🤝 Acknowledgments
 ---
 
 Special thanks to Toyota for sponsoring the hackathon and to HackUTD for hosting an aspiring event that motivates innovation and collaboration.
