@@ -1,7 +1,7 @@
 import json
 import google.generativeai as genai
 
-genai.configure(api_key="")
+genai.configure(api_key="AIzaSyCmRlApa14b-NWXDakx9iqlle9dzWjXHbc")
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 def extract_toyota_filters(user_request):
@@ -113,9 +113,6 @@ def extract_toyota_filters(user_request):
         prompt,
         generation_config={"response_mime_type": "application/json"}
     )
-
-    #Testing
-    print(response.text)
 
     try:
         filters = json.loads(response.text)

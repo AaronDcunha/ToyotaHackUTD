@@ -19,10 +19,8 @@ def filter_cars(filters):
         if filters["fuel"].lower() == "gas":
             pass
         elif filters["fuel"].lower() == "electric":
-            print("checking electric")
             df_filtered = df_filtered[df_filtered["Engine Fuel Type"].str.lower().str.contains("electric",na=False)]
         elif filters["fuel"].lower() == "hybrid":
-            print("checking hybrid")
             df_filtered = df_filtered[df_filtered["Market Category"].str.lower().str.contains(filters["fuel"].lower(),na=False)]
         
         

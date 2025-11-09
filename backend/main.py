@@ -9,6 +9,7 @@ import numpy as np
 
 app = FastAPI()
 
+#Would need to be changed based on where the website is being hosted
 origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
@@ -35,9 +36,6 @@ class ManualFilters(BaseModel):
 class AIQuery(BaseModel):
     query: str
 
-def df_to_list(df):
-    return df.to_dict(orient="records")
-
 @app.get("/")
 def root():
     return {"message": "Backend runs!"}
@@ -52,25 +50,18 @@ def result_ai(payload: AIQuery):
     df_filtered = filter_cars(ai_filters)
     df_filtered = df_filtered[:20]
     df_clean = df_filtered.replace({np.nan: None})
+    print(df_clean)
 
-    return df_clean.to_dict(orient="records")
-
-    #print(df_filtered[:10])
-    #return cars
+    return df_clean.to_dict(orient="records")[:20]
 
 @app.post("/result/manual")
 def result_manual(filters: ManualFilters):
-    print(filters)
     filters_dict = {k: v for k, v in filters.dict().items() if v is not None}
-    print(filters_dict)
-    print("Manual filters:", filters_dict)
 
     df_filtered = filter_cars(filters_dict)
     df_filtered = df_filtered[:20]
-    #cars = df_filtered.to_dict(orient="records")
-    print(df_filtered)
     df_clean = df_filtered.replace({np.nan: None})
 
-    return df_clean.to_dict(orient="records")
+    return df_clean.to_dict(orient="records")[:20]
 
     #return cars
