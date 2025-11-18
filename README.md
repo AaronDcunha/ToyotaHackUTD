@@ -1,7 +1,9 @@
 ## 🚗 ToyotaHackUTD — AI-Powered Toyota Car Finder
 ---
 Aaron - Lead devloper, refined the front end with modern UI and helped with issues in the backend, connected both together. Helped with presentation. 
+
 AakashNB - Backend implemented Gemini API with prompt engineering connected to data sheet of Toyota different cars, created presentation and presented to judges
+
 Ashish & Omar - Developed the framework and layout of the front end with React & HTML
 
 
